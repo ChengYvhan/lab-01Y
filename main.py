@@ -1,1 +1,3 @@
-print("Hello World 0101")
+a=5
+b=10
+print(a+b)
